@@ -1,0 +1,59 @@
+html {
+	font-size: 12px;
+	font-family: 'Helvetica';
+}
+
+p1 {
+	position: fixed;
+	top: 0;
+	height: 30px;
+	width: 100%;
+}
+
+.themiddle {
+	display: block;
+	margin: 0 auto;
+	margin-top: 10%;
+	text-align: center;
+	width: 600px;
+}
+
+.search {
+	width: 600px;
+}
+
+
+#right {
+	float: right;
+}
+	
+ul {
+	list-style-type: none;
+	overflow: hidden;
+	padding: 12px;
+	margin: 0px;
+}
+
+li { 
+	display: inline;
+	padding: 15px;
+}
+
+footer {
+	background-color: gray;
+	position: fixed;
+	height: 30px;
+	bottom: 0;
+	width: 100%;
+}
+
+#list_left {
+	padding: 0 auto;
+	float: left;
+}
+
+#list_right {
+	padding: 0 auto;
+	float: right;
+	
+}
